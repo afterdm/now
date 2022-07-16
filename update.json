@@ -10,5 +10,16 @@
             "update-v": 10,
             "file": "cxx"
         }
+    },
+    "attribute": {
+        "branch": "boots",
+        "decode": {
+            "name": "luck-tool",
+            "version": "1.0.0",
+            "ver-range": {
+                "be": "1.0.0",
+                "en": "*.*.*"
+            }
+        }
     }
 }
