@@ -1,0 +1,25 @@
+{
+    "attribute": {
+        "form": "luckjson",
+        "version": "1.0.0.0"
+    },
+    "map-to": {
+        "component": {
+            "token": {
+                "lassfast": {
+                    "path": "mods/comapi/lassfast",
+                    "into": "main.json"
+                },
+                "lassfast2": {
+                    "path": "mods/comapi/lassfast2/2",
+                    "into": "main2.json"
+                }
+            }
+        }
+    },
+    "vector-include": [
+        "hello", "world",
+        "string-to-2", "string-to-3",
+        "sha3-256", "sha3-512"
+    ]
+}
