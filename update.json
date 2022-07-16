@@ -1,0 +1,14 @@
+{
+    "json": {
+        "v": 10
+    },
+    "update": {
+        "v": "token"
+    },
+    "include": {
+        "token": {
+            "update-v": 10,
+            "file": "cxx"
+        }
+    }
+}
